@@ -1,0 +1,52 @@
+.banner-loja{
+    background-image: url("./assets/images/banner-nofont.png");
+    background-position: center;
+    height:250px; 
+    margin-bottom: 7%;
+    width:100%;
+    text-align: center;
+  }
+
+  #tab-content{
+    text-align: center !important;
+    font-family: 'League Spartan';
+  }
+  
+  .banner-loja h1{
+  font-family: 'League Spartan';
+  color:rgb(230, 173, 69);
+  position: relative;
+  float: left;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  
+  .footer{
+    margin-bottom:-5%;
+    background:rgb(230, 173, 69);
+    width:100%;
+    padding:0;
+    height:200px;
+  }
+  
+  #row1{
+    margin-top:7%;
+    margin-bottom: 2%;
+    margin-left:10%;
+  }
+  
+  #row2{
+    margin-bottom: 2%;
+    margin-left:10%;
+  }
+
+  .page-footer{
+    margin-bottom: -5%;
+    background: rgb(230, 173, 69) !important;
+    border-top: 2px solid #39393939;
+  }
+
+  .page-footer img{
+    width:50%;
+  }
